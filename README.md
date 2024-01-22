@@ -3,11 +3,11 @@
 
 This is datatable view in React.js
 
-##About
+## About
 It is about view table data or report structure view, for data in react js
 
 
-##Features
+## Features
 
 It currently supports:
 
