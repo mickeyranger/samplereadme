@@ -137,3 +137,21 @@ export default function SampleReport() {
 | exportspecificheaders 	| false                 | {boolean}             | Dynamically export , columns which are required in export option            	|
 | exportheaders         	| false                 | {boolean}             | Export option for data in two format i.e., excel and pdf          			|
 | exportspecifictheme   	| false                 | {boolean}             | To enable theme to display table different style format                       |
+
+
+## View
+
+![image](https://github.com/mickeyranger/samplereadme/assets/8128262/c6760fe3-8510-4144-8c11-14062efafebd)
+
+![image (1)](https://github.com/mickeyranger/samplereadme/assets/8128262/b58ff966-07f7-4bef-a170-daffd014505b)
+
+![image (2)](https://github.com/mickeyranger/samplereadme/assets/8128262/3784f87c-09d5-44a7-8f5e-43f5b92f2277)
+
+![image (3)](https://github.com/mickeyranger/samplereadme/assets/8128262/1f0ce49a-7ff8-452b-a459-9782d0864c3b)
+
+![image (4)](https://github.com/mickeyranger/samplereadme/assets/8128262/b6029239-d8c6-44bf-8509-4f8ddad0e4d0)
+
+
+
+
+
