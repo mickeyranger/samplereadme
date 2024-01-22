@@ -147,8 +147,6 @@ export default function SampleReport() {
 
 ![image (2)](https://github.com/mickeyranger/samplereadme/assets/8128262/3784f87c-09d5-44a7-8f5e-43f5b92f2277)
 
-![image (3)](https://github.com/mickeyranger/samplereadme/assets/8128262/1f0ce49a-7ff8-452b-a459-9782d0864c3b)
-
 ![image (4)](https://github.com/mickeyranger/samplereadme/assets/8128262/b6029239-d8c6-44bf-8509-4f8ddad0e4d0)
 
 
